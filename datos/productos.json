@@ -1,0 +1,23 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "categoria": "Comida rápida",
+        "precio": 5.0,
+        "stock": 10
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pizza",
+        "categoria": "Comida rápida",
+        "precio": 8.5,
+        "stock": 5
+    },
+    {
+        "codigo": "32",
+        "nombre": "alitas BBQ",
+        "categoria": "comida ",
+        "precio": 7.5,
+        "stock": 5
+    }
+]

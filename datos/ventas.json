@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "usuario_id": "1754207486",
+        "producto_codigo": "32",
+        "fecha": "2026-09-27 21:46:49"
+    },
+    {
+        "id": "2",
+        "usuario_id": "1754207486",
+        "producto_codigo": "P001",
+        "fecha": "2026-09-27 21:47:00"
+    },
+    {
+        "id": "3",
+        "usuario_id": "1754207486",
+        "producto_codigo": "P002",
+        "fecha": "2026-09-27 21:50:06"
+    },
+    {
+        "id": "4",
+        "usuario_id": "005",
+        "producto_codigo": "32",
+        "fecha": "2026-09-27 21:56:34"
+    }
+]
